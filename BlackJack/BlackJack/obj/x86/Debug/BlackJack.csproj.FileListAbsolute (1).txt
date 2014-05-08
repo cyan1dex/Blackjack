@@ -1,0 +1,14 @@
+C:\Users\backtrack\Google Drive\BlackJack\BlackJack\BlackJack\bin\x86\Debug\Content\cards.xnb
+C:\Users\backtrack\Google Drive\BlackJack\BlackJack\BlackJack\bin\x86\Debug\Content\cards-big.xnb
+C:\Users\backtrack\Google Drive\BlackJack\BlackJack\BlackJack\bin\x86\Debug\Content\font.xnb
+C:\Users\backtrack\Google Drive\BlackJack\BlackJack\BlackJack\bin\x86\Debug\BlackJack.exe
+C:\Users\backtrack\Google Drive\BlackJack\BlackJack\BlackJack\bin\x86\Debug\BlackJack.pdb
+C:\Users\backtrack\Google Drive\BlackJack\BlackJack\BlackJack\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\backtrack\Google Drive\BlackJack\BlackJack\BlackJack\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\backtrack\Google Drive\BlackJack\BlackJack\BlackJack\obj\x86\Debug\BlackJack.exe
+C:\Users\backtrack\Google Drive\BlackJack\BlackJack\BlackJack\obj\x86\Debug\BlackJack.pdb
+C:\Users\backtrack\Google Drive\BlackJack\BlackJack\BlackJack\bin\x86\Debug\Content\felt.xnb
+C:\Users\backtrack\Google Drive\BlackJack\BlackJack\BlackJack\bin\x86\Debug\Content\hit.xnb
+C:\Users\backtrack\Google Drive\BlackJack\BlackJack\BlackJack\bin\x86\Debug\Content\double.xnb
+C:\Users\backtrack\Google Drive\BlackJack\BlackJack\BlackJack\bin\x86\Debug\Content\split.xnb
+C:\Users\backtrack\Google Drive\BlackJack\BlackJack\BlackJack\bin\x86\Debug\Content\Stay.xnb

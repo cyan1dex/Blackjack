@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlackJack", "BlackJack\BlackJack\BlackJack.csproj", "{FD6C58CB-D599-482A-BB97-C590EED0C95F}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "BlackJackContent", "BlackJack\BlackJackContent\BlackJackContent.contentproj", "{8037351A-02E8-4408-9F3E-6D6B6FF16287}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{26A8E8B5-C4C7-4E92-B10A-1651EE92CF93}"
+	ProjectSection(SolutionItems) = preProject
+		BlackJack.vsmdi = BlackJack.vsmdi
+		Local.testsettings = Local.testsettings
+		TraceAndTestImpact.testsettings = TraceAndTestImpact.testsettings
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = BlackJack.vsmdi
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD6C58CB-D599-482A-BB97-C590EED0C95F}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{FD6C58CB-D599-482A-BB97-C590EED0C95F}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{FD6C58CB-D599-482A-BB97-C590EED0C95F}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{FD6C58CB-D599-482A-BB97-C590EED0C95F}.Debug|x86.ActiveCfg = Debug|x86
+		{FD6C58CB-D599-482A-BB97-C590EED0C95F}.Debug|x86.Build.0 = Debug|x86
+		{FD6C58CB-D599-482A-BB97-C590EED0C95F}.Release|Any CPU.ActiveCfg = Release|x86
+		{FD6C58CB-D599-482A-BB97-C590EED0C95F}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{FD6C58CB-D599-482A-BB97-C590EED0C95F}.Release|Mixed Platforms.Build.0 = Release|x86
+		{FD6C58CB-D599-482A-BB97-C590EED0C95F}.Release|x86.ActiveCfg = Release|x86
+		{FD6C58CB-D599-482A-BB97-C590EED0C95F}.Release|x86.Build.0 = Release|x86
+		{8037351A-02E8-4408-9F3E-6D6B6FF16287}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{8037351A-02E8-4408-9F3E-6D6B6FF16287}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{8037351A-02E8-4408-9F3E-6D6B6FF16287}.Debug|x86.ActiveCfg = Debug|x86
+		{8037351A-02E8-4408-9F3E-6D6B6FF16287}.Release|Any CPU.ActiveCfg = Release|x86
+		{8037351A-02E8-4408-9F3E-6D6B6FF16287}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{8037351A-02E8-4408-9F3E-6D6B6FF16287}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

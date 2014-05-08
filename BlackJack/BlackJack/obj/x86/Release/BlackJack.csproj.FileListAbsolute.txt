@@ -1,0 +1,6 @@
+c:\users\flavius\documents\visual studio 2010\Projects\BlackJack\BlackJack\BlackJack\bin\x86\Release\BlackJack.exe
+c:\users\flavius\documents\visual studio 2010\Projects\BlackJack\BlackJack\BlackJack\bin\x86\Release\BlackJack.pdb
+c:\users\flavius\documents\visual studio 2010\Projects\BlackJack\BlackJack\BlackJack\obj\x86\Release\ResolveAssemblyReference.cache
+c:\users\flavius\documents\visual studio 2010\Projects\BlackJack\BlackJack\BlackJack\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\flavius\documents\visual studio 2010\Projects\BlackJack\BlackJack\BlackJack\obj\x86\Release\BlackJack.exe
+c:\users\flavius\documents\visual studio 2010\Projects\BlackJack\BlackJack\BlackJack\obj\x86\Release\BlackJack.pdb

@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>cards.png</Source>
+      <Name>cards</Name>
+      <Importer>TextureImporter</Importer>
+      <Options>None</Options>
+      <Output>C:\Users\flaVius\Google Drive\BlackJack\BlackJack\BlackJack\bin\x86\Debug\Content\cards.xnb</Output>
+      <Time>2012-10-17T16:36:27.584-07:00</Time>
+    </Item>
+    <Item>
+      <Source>cards-big.jpg</Source>
+      <Name>cards-big</Name>
+      <Importer>TextureImporter</Importer>
+      <Options>None</Options>
+      <Output>C:\Users\flaVius\Google Drive\BlackJack\BlackJack\BlackJack\bin\x86\Debug\Content\cards-big.xnb</Output>
+      <Time>2012-10-17T16:36:41.195-07:00</Time>
+    </Item>
+    <Item>
+      <Source>felt.jpg</Source>
+      <Name>felt</Name>
+      <Importer>TextureImporter</Importer>
+      <Options>None</Options>
+      <Output>C:\Users\flaVius\Google Drive\BlackJack\BlackJack\BlackJack\bin\x86\Debug\Content\felt.xnb</Output>
+      <Time>2012-10-30T23:02:07.862-07:00</Time>
+    </Item>
+    <Item>
+      <Source>hit.png</Source>
+      <Name>hit</Name>
+      <Importer>TextureImporter</Importer>
+      <Options>None</Options>
+      <Output>C:\Users\flaVius\Google Drive\BlackJack\BlackJack\BlackJack\bin\x86\Debug\Content\hit.xnb</Output>
+      <Time>2012-10-30T22:10:32.375-07:00</Time>
+    </Item>
+    <Item>
+      <Source>double.png</Source>
+      <Name>double</Name>
+      <Importer>TextureImporter</Importer>
+      <Options>None</Options>
+      <Output>C:\Users\flaVius\Google Drive\BlackJack\BlackJack\BlackJack\bin\x86\Debug\Content\double.xnb</Output>
+      <Time>2012-10-30T22:16:02.11-07:00</Time>
+    </Item>
+    <Item>
+      <Source>split.png</Source>
+      <Name>split</Name>
+      <Importer>TextureImporter</Importer>
+      <Options>None</Options>
+      <Output>C:\Users\flaVius\Google Drive\BlackJack\BlackJack\BlackJack\bin\x86\Debug\Content\split.xnb</Output>
+      <Time>2012-10-30T22:16:02.112-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Stay.png</Source>
+      <Name>Stay</Name>
+      <Importer>TextureImporter</Importer>
+      <Options>None</Options>
+      <Output>C:\Users\flaVius\Google Drive\BlackJack\BlackJack\BlackJack\bin\x86\Debug\Content\Stay.xnb</Output>
+      <Time>2012-10-30T22:16:02.107-07:00</Time>
+    </Item>
+    <Item>
+      <Source>font.spritefont</Source>
+      <Name>font</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\flaVius\Google Drive\BlackJack\BlackJack\BlackJack\bin\x86\Debug\Content\font.xnb</Output>
+      <Time>2012-10-18T08:23:03-07:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\flaVius\Google Drive\BlackJack\BlackJack\BlackJackContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\flaVius\Google Drive\BlackJack\BlackJack\BlackJack\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\flaVius\Google Drive\BlackJack\BlackJack\BlackJackContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\flaVius\Google Drive\BlackJack\BlackJack\BlackJack\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T13:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T13:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2011-01-06T23:56:40.799-08:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

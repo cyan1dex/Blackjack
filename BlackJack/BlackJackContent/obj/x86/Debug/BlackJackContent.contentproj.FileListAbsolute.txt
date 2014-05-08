@@ -1,0 +1,3 @@
+c:\users\flavius\documents\visual studio 2010\Projects\BlackJack\BlackJack\BlackJackContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\backtrack\Google Drive\BlackJack\BlackJack\BlackJackContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\flaVius\Google Drive\BlackJack\BlackJack\BlackJackContent\obj\x86\Debug\BlackJackContent.contentprojResolveAssemblyReference.cache

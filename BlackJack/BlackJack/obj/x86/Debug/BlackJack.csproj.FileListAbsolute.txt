@@ -1,0 +1,23 @@
+c:\users\flavius\documents\visual studio 2010\Projects\BlackJack\BlackJack\BlackJack\bin\x86\Debug\BlackJack.exe
+c:\users\flavius\documents\visual studio 2010\Projects\BlackJack\BlackJack\BlackJack\bin\x86\Debug\BlackJack.pdb
+c:\users\flavius\documents\visual studio 2010\Projects\BlackJack\BlackJack\BlackJack\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\flavius\documents\visual studio 2010\Projects\BlackJack\BlackJack\BlackJack\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\flavius\documents\visual studio 2010\Projects\BlackJack\BlackJack\BlackJack\obj\x86\Debug\BlackJack.exe
+c:\users\flavius\documents\visual studio 2010\Projects\BlackJack\BlackJack\BlackJack\obj\x86\Debug\BlackJack.pdb
+c:\users\flavius\documents\visual studio 2010\Projects\BlackJack\BlackJack\BlackJack\bin\x86\Debug\Content\cards.xnb
+c:\users\flavius\documents\visual studio 2010\Projects\BlackJack\BlackJack\BlackJack\bin\x86\Debug\Content\cards-big.xnb
+c:\users\flavius\documents\visual studio 2010\Projects\BlackJack\BlackJack\BlackJack\bin\x86\Debug\Content\font.xnb
+C:\Users\flaVius\Google Drive\BlackJack\BlackJack\BlackJack\bin\x86\Debug\Content\cards.xnb
+C:\Users\flaVius\Google Drive\BlackJack\BlackJack\BlackJack\bin\x86\Debug\Content\cards-big.xnb
+C:\Users\flaVius\Google Drive\BlackJack\BlackJack\BlackJack\bin\x86\Debug\Content\font.xnb
+C:\Users\flaVius\Google Drive\BlackJack\BlackJack\BlackJack\bin\x86\Debug\BlackJack.exe
+C:\Users\flaVius\Google Drive\BlackJack\BlackJack\BlackJack\bin\x86\Debug\BlackJack.pdb
+C:\Users\flaVius\Google Drive\BlackJack\BlackJack\BlackJack\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\flaVius\Google Drive\BlackJack\BlackJack\BlackJack\obj\x86\Debug\BlackJack.exe
+C:\Users\flaVius\Google Drive\BlackJack\BlackJack\BlackJack\obj\x86\Debug\BlackJack.pdb
+C:\Users\flaVius\Google Drive\BlackJack\BlackJack\BlackJack\bin\x86\Debug\Content\felt.xnb
+C:\Users\flaVius\Google Drive\BlackJack\BlackJack\BlackJack\bin\x86\Debug\Content\hit.xnb
+C:\Users\flaVius\Google Drive\BlackJack\BlackJack\BlackJack\bin\x86\Debug\Content\double.xnb
+C:\Users\flaVius\Google Drive\BlackJack\BlackJack\BlackJack\bin\x86\Debug\Content\split.xnb
+C:\Users\flaVius\Google Drive\BlackJack\BlackJack\BlackJack\bin\x86\Debug\Content\Stay.xnb
+C:\Users\flaVius\Google Drive\BlackJack\BlackJack\BlackJack\obj\x86\Debug\BlackJack.csprojResolveAssemblyReference.cache

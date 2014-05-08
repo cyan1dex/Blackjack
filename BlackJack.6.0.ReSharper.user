@@ -1,0 +1,387 @@
+<Configuration>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="FD6C58CB-D599-482A-BB97-C590EED0C95F/d:Properties/f:AssemblyInfo.cs" caret="0" fromTop="0" />
+      <File id="FD6C58CB-D599-482A-BB97-C590EED0C95F/f:Deck.cs" caret="0" fromTop="0" />
+      <File id="FD6C58CB-D599-482A-BB97-C590EED0C95F/f:Dealer.cs" caret="148" fromTop="7" />
+      <File id="FD6C58CB-D599-482A-BB97-C590EED0C95F/f:Card.cs" caret="1192" fromTop="67" />
+      <File id="FD6C58CB-D599-482A-BB97-C590EED0C95F/f:Shoe.cs" caret="1891" fromTop="66" />
+      <File id="FD6C58CB-D599-482A-BB97-C590EED0C95F/f:BankRoll.cs" caret="462" fromTop="17" />
+      <File id="FD6C58CB-D599-482A-BB97-C590EED0C95F/f:CardPosition.cs" caret="1023" fromTop="28" />
+      <File id="FD6C58CB-D599-482A-BB97-C590EED0C95F/f:Player.cs" caret="1052" fromTop="32" />
+      <File id="FD6C58CB-D599-482A-BB97-C590EED0C95F/f:Hand.cs" caret="345" fromTop="13" />
+      <File id="FD6C58CB-D599-482A-BB97-C590EED0C95F/f:BlackJack.cs" caret="815" fromTop="1" />
+      <File id="FD6C58CB-D599-482A-BB97-C590EED0C95F/f:Game1.cs" caret="6008" fromTop="20" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="FD6C58CB-D599-482A-BB97-C590EED0C95F/f:Hand.cs" caret="704" fromTop="27" />
+      <File id="FD6C58CB-D599-482A-BB97-C590EED0C95F/f:Hand.cs" caret="234" fromTop="7" />
+      <File id="FD6C58CB-D599-482A-BB97-C590EED0C95F/f:Player.cs" caret="1117" fromTop="35" />
+      <File id="FD6C58CB-D599-482A-BB97-C590EED0C95F/f:BlackJack.cs" caret="684" fromTop="8" />
+      <File id="FD6C58CB-D599-482A-BB97-C590EED0C95F/f:BlackJack.cs" caret="3121" fromTop="10" />
+      <File id="FD6C58CB-D599-482A-BB97-C590EED0C95F/f:BlackJack.cs" caret="2814" fromTop="28" />
+      <File id="FD6C58CB-D599-482A-BB97-C590EED0C95F/f:Player.cs" caret="637" fromTop="21" />
+      <File id="FD6C58CB-D599-482A-BB97-C590EED0C95F/f:BankRoll.cs" caret="353" fromTop="17" />
+      <File id="FD6C58CB-D599-482A-BB97-C590EED0C95F/f:Game1.cs" caret="7330" fromTop="23" />
+      <File id="FD6C58CB-D599-482A-BB97-C590EED0C95F/f:BankRoll.cs" caret="673" fromTop="30" />
+      <File id="FD6C58CB-D599-482A-BB97-C590EED0C95F/f:BankRoll.cs" caret="462" fromTop="17" />
+      <File id="FD6C58CB-D599-482A-BB97-C590EED0C95F/f:Player.cs" caret="971" fromTop="27" />
+      <File id="FD6C58CB-D599-482A-BB97-C590EED0C95F/f:Player.cs" caret="1166" fromTop="33" />
+      <File id="FD6C58CB-D599-482A-BB97-C590EED0C95F/f:Game1.cs" caret="5742" fromTop="30" />
+      <File id="FD6C58CB-D599-482A-BB97-C590EED0C95F/f:BlackJack.cs" caret="2015" fromTop="23" />
+      <File id="FD6C58CB-D599-482A-BB97-C590EED0C95F/f:Game1.cs" caret="5477" fromTop="25" />
+      <File id="FD6C58CB-D599-482A-BB97-C590EED0C95F/f:Game1.cs" caret="7558" fromTop="19" />
+      <File id="FD6C58CB-D599-482A-BB97-C590EED0C95F/f:BlackJack.cs" caret="3709" fromTop="18" />
+      <File id="FD6C58CB-D599-482A-BB97-C590EED0C95F/f:BlackJack.cs" caret="4234" fromTop="23" />
+      <File id="FD6C58CB-D599-482A-BB97-C590EED0C95F/f:BlackJack.cs" caret="596" fromTop="29" />
+      <File id="FD6C58CB-D599-482A-BB97-C590EED0C95F/f:CardPosition.cs" caret="283" fromTop="10" />
+      <File id="FD6C58CB-D599-482A-BB97-C590EED0C95F/f:CardPosition.cs" caret="1023" fromTop="28" />
+      <File id="FD6C58CB-D599-482A-BB97-C590EED0C95F/f:BlackJack.cs" caret="2210" fromTop="16" />
+      <File id="FD6C58CB-D599-482A-BB97-C590EED0C95F/f:BlackJack.cs" caret="7099" fromTop="7" />
+      <File id="FD6C58CB-D599-482A-BB97-C590EED0C95F/f:Game1.cs" caret="9109" fromTop="28" />
+      <File id="FD6C58CB-D599-482A-BB97-C590EED0C95F/f:Game1.cs" caret="6875" fromTop="23" />
+      <File id="FD6C58CB-D599-482A-BB97-C590EED0C95F/f:Game1.cs" caret="1103" fromTop="39" />
+      <File id="FD6C58CB-D599-482A-BB97-C590EED0C95F/f:Game1.cs" caret="8123" fromTop="44" />
+      <File id="FD6C58CB-D599-482A-BB97-C590EED0C95F/f:Game1.cs" caret="6753" fromTop="8" />
+      <File id="FD6C58CB-D599-482A-BB97-C590EED0C95F/f:Game1.cs" caret="6008" fromTop="20" />
+    </RecentEdits>
+  </RecentFiles>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="CSharpCodeCompletionContext">
+      <Item value="enum" priority="61" />
+      <Item value="public" priority="1788" />
+      <Item value="Card`0" priority="479" />
+      <Item value="int" priority="1915" />
+      <Item value="SUIT`0" priority="351" />
+      <Item value="this" priority="479" />
+      <Item value="value" priority="95" />
+      <Item value="return" priority="1151" />
+      <Item value="suit" priority="95" />
+      <Item value="void" priority="447" />
+      <Item value="new" priority="1119" />
+      <Item value="Card" priority="86" />
+      <Item value="Deck`0" priority="127" />
+      <Item value="card" priority="287" />
+      <Item value="deckPortion" priority="127" />
+      <Item value="switch" priority="63" />
+      <Item value="case" priority="351" />
+      <Item value="default" priority="63" />
+      <Item value="Random`0" priority="63" />
+      <Item value="Random" priority="57" />
+      <Item value="rand" priority="31" />
+      <Item value="get`0" priority="26" />
+      <Item value="deck" priority="127" />
+      <Item value="temp" priority="191" />
+      <Item value="Build`0" priority="31" />
+      <Item value="Shuffle`0" priority="31" />
+      <Item value="Console`0" priority="159" />
+      <Item value="Deck" priority="57" />
+      <Item value="if" priority="959" />
+      <Item value="x" priority="191" />
+      <Item value="i" priority="351" />
+      <Item value="else" priority="447" />
+      <Item value="val2" priority="31" />
+      <Item value="private" priority="95" />
+      <Item value="Type`0" priority="191" />
+      <Item value="type" priority="191" />
+      <Item value="ACE" priority="84" />
+      <Item value="REG" priority="33" />
+      <Item value="JACK" priority="33" />
+      <Item value="QUEEN" priority="16" />
+      <Item value="KING" priority="16" />
+      <Item value="j" priority="127" />
+      <Item value="cards" priority="127" />
+      <Item value="foreach" priority="159" />
+      <Item value="in" priority="159" />
+      <Item value="target" priority="31" />
+      <Item value="c" priority="159" />
+      <Item value="c1" priority="63" />
+      <Item value="override" priority="31" />
+      <Item value="same" priority="95" />
+      <Item value="Assert`0" priority="63" />
+      <Item value="ShuffleTest`0" priority="31" />
+      <Item value="Shoe`0" priority="127" />
+      <Item value="numDecks" priority="286" />
+      <Item value="stopPercent" priority="63" />
+      <Item value="for" priority="95" />
+      <Item value="long" priority="31" />
+      <Item value="currentCard" priority="159" />
+      <Item value="d" priority="63" />
+      <Item value="Count`1" priority="26" />
+      <Item value="curCard" priority="31" />
+      <Item value="Shoe" priority="57" />
+      <Item value="s" priority="63" />
+      <Item value="shoeCards" priority="31" />
+      <Item value="interface" priority="30" />
+      <Item value="hand" priority="287" />
+      <Item value="Hand`0" priority="223" />
+      <Item value="throw" priority="63" />
+      <Item value="Exception" priority="57" />
+      <Item value="newHand" priority="63" />
+      <Item value="Hand" priority="115" />
+      <Item value="sum" priority="127" />
+      <Item value="Equals`0" priority="31" />
+      <Item value="List" priority="95" />
+      <Item value="List&lt;Hand&gt;" priority="28" />
+      <Item value="BankRoll`0" priority="159" />
+      <Item value="bankRoll" priority="97" />
+      <Item value="Player`0" priority="127" />
+      <Item value="dollars" priority="127" />
+      <Item value="currentBet" priority="31" />
+      <Item value="BankRoll" priority="28" />
+      <Item value="hands" priority="127" />
+      <Item value="bool" priority="223" />
+      <Item value="IsSplittable`0" priority="31" />
+      <Item value="Value`0" priority="31" />
+      <Item value="amount" priority="127" />
+      <Item value="Dealer`0" priority="31" />
+      <Item value="shoe" priority="159" />
+      <Item value="player" priority="767" />
+      <Item value="Player" priority="86" />
+      <Item value="dealer" priority="255" />
+      <Item value="Dealer" priority="86" />
+      <Item value="Content" priority="127" />
+      <Item value="graphics" priority="63" />
+      <Item value="screenHeight" priority="63" />
+      <Item value="GraphicsDevice`0" priority="31" />
+      <Item value="screenWidth" priority="63" />
+      <Item value="GraphicsDevice" priority="95" />
+      <Item value="cardHeight" priority="31" />
+      <Item value="cardWidth" priority="31" />
+      <Item value="spriteBatch" priority="159" />
+      <Item value="Texture2D`0" priority="127" />
+      <Item value="cardSheet" priority="63" />
+      <Item value="Vector2`0" priority="95" />
+      <Item value="Rectangle" priority="174" />
+      <Item value="Color`0" priority="127" />
+      <Item value="SpriteEffects`0" priority="31" />
+      <Item value="Point`0" priority="63" />
+      <Item value="Point" priority="144" />
+      <Item value="CLUB" priority="16" />
+      <Item value="class" priority="30" />
+      <Item value="Rectangle`0" priority="127" />
+      <Item value="CardPosition`0" priority="191" />
+      <Item value="destination" priority="31" />
+      <Item value="source" priority="31" />
+      <Item value="cardPositions" priority="288" />
+      <Item value="List&lt;CardPosition&gt;" priority="28" />
+      <Item value="pos" priority="31" />
+      <Item value="p" priority="255" />
+      <Item value="CardPosition" priority="28" />
+      <Item value="cardSize" priority="95" />
+      <Item value="Xposition`0" priority="31" />
+      <Item value="Yposition`0" priority="31" />
+      <Item value="SpriteFont`0" priority="63" />
+      <Item value="font" priority="63" />
+      <Item value="color" priority="31" />
+      <Item value="ColorWriteChannels`0" priority="31" />
+      <Item value="playerOne" priority="31" />
+      <Item value="curHand" priority="447" />
+      <Item value="List&lt;int&gt;" priority="28" />
+      <Item value="handCardCounts" priority="159" />
+      <Item value="STAY" priority="16" />
+      <Item value="break" priority="95" />
+      <Item value="String`0" priority="63" />
+      <Item value="PlayerCanSplit`0" priority="31" />
+      <Item value="split" priority="31" />
+      <Item value="canDouble" priority="31" />
+      <Item value="blackjack" priority="127" />
+      <Item value="PlayerBusted`0" priority="31" />
+      <Item value="false" priority="63" />
+      <Item value="aces" priority="127" />
+      <Item value="while" priority="63" />
+      <Item value="double" priority="32" />
+      <Item value="string" priority="31" />
+      <Item value="NEWGAME" priority="16" />
+      <Item value="ResetHands`0" priority="31" />
+      <Item value="Deal`0" priority="31" />
+      <Item value="Decimal`0" priority="31" />
+      <Item value="DealerPlay`0" priority="31" />
+      <Item value="felt" priority="63" />
+      <Item value="Vector2" priority="28" />
+      <Item value="true" priority="63" />
+      <Item value="DealCard`0" priority="31" />
+      <Item value="Play`0" priority="31" />
+      <Item value="DECISION`0" priority="31" />
+      <Item value="DOUBLE" priority="16" />
+      <Item value="PlayerCanDouble`0" priority="31" />
+      <Item value="Double`0" priority="31" />
+      <Item value="betAmount" priority="95" />
+      <Item value="h" priority="127" />
+      <Item value="offset" priority="95" />
+      <Item value="winnerDetermined" priority="63" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BlackJack.Card">
+      <Item value="value" priority="53" />
+      <Item value="suit" priority="53" />
+      <Item value="SetValue`0" priority="80" />
+      <Item value="CardValue`0" priority="188" />
+      <Item value="CardSuit`0" priority="107" />
+      <Item value="SetSuit`0" priority="53" />
+      <Item value="GetType`0" priority="26" />
+      <Item value="CardCopy`0" priority="107" />
+      <Item value="type" priority="80" />
+      <Item value="SetType`0" priority="26" />
+      <Item value="CardType`0" priority="53" />
+      <Item value="Equals`0" priority="53" />
+      <Item value="Type`0" priority="134" />
+      <Item value="Value`0" priority="107" />
+      <Item value="Suit`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@SUIT">
+      <Item value="CLUB" priority="53" />
+      <Item value="DIAMOND" priority="54" />
+      <Item value="HEART" priority="54" />
+      <Item value="SPADE" priority="54" />
+      <Item value="UNKNWN" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Random">
+      <Item value="Next`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Console">
+      <Item value="ReadLine`0" priority="107" />
+      <Item value="WriteLine`0" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BlackJack.Deck">
+      <Item value="deck" priority="80" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Microsoft.VisualStudio.TestTools.UnitTesting.Assert">
+      <Item value="Fail`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BlackJack.Shoe">
+      <Item value="stopPercent" priority="26" />
+      <Item value="numDecks" priority="26" />
+      <Item value="BuildShoe`0" priority="80" />
+      <Item value="ShuffleShoe`0" priority="80" />
+      <Item value="currentCard" priority="26" />
+      <Item value="DealCard`0" priority="53" />
+      <Item value="CurrentPercentLeft`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Type">
+      <Item value="STOP" priority="26" />
+      <Item value="QUEEN" priority="27" />
+      <Item value="KING" priority="55" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Add`0" priority="134" />
+      <Item value="RemoveAt`0" priority="26" />
+      <Item value="Count" priority="404" />
+      <Item value="Clear`0" priority="80" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BlackJack.Hand">
+      <Item value="AddCard`0" priority="53" />
+      <Item value="hand" priority="26" />
+      <Item value="cards" priority="134" />
+      <Item value="Value`0" priority="161" />
+      <Item value="bet" priority="80" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BlackJack.BankRoll">
+      <Item value="dollars" priority="26" />
+      <Item value="GetHashCode`0" priority="26" />
+      <Item value="GetStackSize`0" priority="26" />
+      <Item value="AddMoney`0" priority="53" />
+      <Item value="Bet`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BlackJack.Player">
+      <Item value="DealCard`0" priority="26" />
+      <Item value="hands" priority="323" />
+      <Item value="BetOnHand`0" priority="53" />
+      <Item value="DoubleBet`0" priority="26" />
+      <Item value="GetBankRoll`0" priority="107" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BlackJack.Dealer">
+      <Item value="GetCard`0" priority="26" />
+      <Item value="hand" priority="107" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Xna.Framework.GraphicsDeviceManager">
+      <Item value="PreferredBackBufferHeight" priority="27" />
+      <Item value="PreferredBackBufferWidth" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Xna.Framework.Graphics.GraphicsDevice">
+      <Item value="Viewport" priority="107" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Xna.Framework.Graphics.Viewport">
+      <Item value="Height" priority="53" />
+      <Item value="Width" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Xna.Framework.Graphics.SpriteBatch">
+      <Item value="Begin`0" priority="26" />
+      <Item value="End`0" priority="26" />
+      <Item value="Draw`0" priority="53" />
+      <Item value="DrawString`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Xna.Framework.Content.ContentManager">
+      <Item value="Load`1" priority="80" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Microsoft.Xna.Framework.Vector2">
+      <Item value="Zero" priority="80" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Microsoft.Xna.Framework.Color">
+      <Item value="White" priority="80" />
+      <Item value="Red" priority="26" />
+      <Item value="Black" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Microsoft.Xna.Framework.Graphics.SpriteEffects">
+      <Item value="None" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BlackJack.CardPosition">
+      <Item value="destination" priority="188" />
+      <Item value="source" priority="26" />
+      <Item value="GetDestination`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:CardPosition">
+      <Item value="pos" priority="26" />
+      <Item value="destination" priority="54" />
+      <Item value="source" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Xna.Framework.Point">
+      <Item value="X" priority="80" />
+      <Item value="Y" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Microsoft.Xna.Framework.Input.Keys">
+      <Item value="P" priority="55" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@BlackJack.DECISION">
+      <Item value="STAY" priority="54" />
+      <Item value="DOUBLE" priority="27" />
+      <Item value="NEWGAME" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BlackJack.BlackJack">
+      <Item value="PlayerCanSplit`0" priority="26" />
+      <Item value="PlayerBusted`0" priority="53" />
+      <Item value="shoe" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="Format`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BlackJack.Game1">
+      <Item value="IsMouseVisible" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Xna.Framework.Rectangle">
+      <Item value="Offset`0" priority="26" />
+      <Item value="Bottom" priority="26" />
+      <Item value="Height" priority="53" />
+      <Item value="X" priority="53" />
+      <Item value="Y" priority="26" />
+      <Item value="Width" priority="26" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+</Configuration>
